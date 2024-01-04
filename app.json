@@ -1,0 +1,13 @@
+{
+  "name": "Pterodactyl egg",
+  "description": "A pterodactyl's egg for WhatsApp Bot.",
+  "repository": "https://github.com/Mydapitt/ptero-egg",
+  "logo": "https://cdn.pterodactyl.io/logos/new/pterodactyl_logo_transparent.png",
+  "keywords": [
+    "whatsapp-bot",
+    "pterodactyl",
+    "parkervcp",
+    "egg-whatsapp-bot",
+    "pterodactyl-egg"
+  ]
+}
