@@ -1,7 +1,7 @@
 <center><h2>Pterodactyl Egg</h2><p>For Whatsapp bot</p></center>
 
 
-<strong><p>Visitor</p></strong>  
+<strong><p>Visitor</p></strong>
 <img src="https://profile-counter.glitch.me/1P5/count.svg" alt="hit"/>
   
 # Features
