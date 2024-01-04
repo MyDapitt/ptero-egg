@@ -26,6 +26,13 @@
 <strong><p>NodeJS available version</p></strong>
 <p>21, 20 (LTS), 19 (EOL), 18 (LTS), 17 (EOL), 16 (EOL), 14 (EOL), 12 (EOL)</p>
 
+# Requirements 
+- VPS:
+VPS RAM = 1GB or more
+VPS storage = 30GB or more
+
+<strong>LESS THAN THAT AND THE EGG WILL NOT RUN WELL!</strong>
+
 # Download Links
 <p>You can download <strong><a href="https://safefileku.com/download/OHTtueV0y08uDngK">Here</a></strong></p>
 <p>This egg is still in the development stage, please create an issue if there is a bug. Please <strong>don't buy and sell these eggs</strong>, these eggs are free for anyone.</p>
