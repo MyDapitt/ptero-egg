@@ -13,7 +13,7 @@
 <br>
 <img src="https://missuo.ru/file/02629b21088d96e53e1a4.jpg" alt="Neofetch" width="1000" height="700">
 
-- Python (Version 2.7)
+- Python
 <br>
 <img src="https://missuo.ru/file/be182e1eb4ce5f9f80723.jpg" alt="Python Command" width="1000" height="700">
 
@@ -24,7 +24,7 @@
 <p>and everything else is what the WhatsApp bot needs.</p>
 
 <strong><p>NodeJS available version</p></strong>
-<p>21, 20 (LTS), 19 (EOL), 18 (LTS), 17 (EOL), 16 (EOL), 14 (EOL), 12 (EOL)</p>
+<p>21 (Active), 20 (LTS), 19 (EOL), 18 (LTS), 17 (EOL), 16 (EOL), 14 (EOL), 12 (EOL)</p>
 
 # Requirements 
 - VPS:<br>
