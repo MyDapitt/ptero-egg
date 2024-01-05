@@ -15,7 +15,7 @@ deb-src http://deb.debian.org/debian bullseye main
 deb-src http://deb.debian.org/debian-security bullseye-security main
 # deb-src http://snapshot.debian.org/archive/debian/20231009T000000Z bullseye-updates main
 deb-src http://deb.debian.org/debian bullseye-updates main
-deb https://cli.github.com/packages bullseye main
+# deb https://cli.github.com/packages bullseye main
 # deb-src https://cli.github.com/packages bullseye main
 deb [arch=amd64] https://apt.releases.hashicorp.com bullseye main
 # deb-src [arch=amd64] https://apt.releases.hashicorp.com bullseye main
