@@ -1,16 +1,14 @@
-# deb http://snapshot.debian.org/archive/debian/20231009T000000Z bullseye main
+deb http://mirror.aktkn.sg/ubuntu/ jammy main restricted universe multiverse
+# deb-src http://mirror.aktkn.sg/ubuntu/ jammy main restricted universe multiverse
 
-deb http://ossmirror.mycloud.services/debian/ bullseye main contrib non-free
-deb http://ossmirror.mycloud.services/debian/ bullseye-updates main contrib non-free
-deb http://ossmirror.mycloud.services/debian/ bullseye-backports main contrib non-free
-deb http://security.debian.org/debian-security/ bullseye-security main contrib non-free
+deb http://mirror.aktkn.sg/ubuntu/ jammy-updates main restricted universe multiverse
+# deb-src http://mirror.aktkn.sg/ubuntu/ jammy-updates main restricted universe multiverse
 
-# deb http://snapshot.debian.org/archive/debian-security/20231009T000000Z bullseye-security main
-deb http://deb.debian.org/debian-security bullseye-security main
-# deb http://snapshot.debian.org/archive/debian/20231009T000000Z bullseye-updates main
-deb http://deb.debian.org/debian bullseye-updates main
-deb-src http://ossmirror.mycloud.services/debian/ bullseye main
-# deb-src http://snapshot.debian.org/archive/debian-security/20231009T000000Z bullseye-security main
-deb-src http://deb.debian.org/debian-security bullseye-security main
-# deb-src http://snapshot.debian.org/archive/debian/20231009T000000Z bullseye-updates main
-deb-src http://deb.debian.org/debian bullseye-updates main
+deb http://mirror.aktkn.sg/ubuntu/ jammy-security main restricted universe multiverse
+# deb-src http://mirror.aktkn.sg/ubuntu/ jammy-security main restricted universe multiverse
+
+deb http://mirror.aktkn.sg/ubuntu/ jammy-backports main restricted universe multiverse
+# deb-src http://mirror.aktkn.sg/ubuntu/ jammy-backports main restricted universe multiverse
+
+deb http://archive.canonical.com/ubuntu/ jammy partner
+# deb-src http://archive.canonical.com/ubuntu/ jammy partner
