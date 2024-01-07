@@ -17,6 +17,9 @@
 <br>
 <img src="https://missuo.ru/file/be182e1eb4ce5f9f80723.jpg" alt="Python Command" width="1000" height="700">
 
+- pm2
+<br>
+<img src="https://missuo.ru/file/45b95c111f2eede0fbed7.jpg" alt="pm2" width="1000" height="700">
 - Speedtest (Ookla)
 <br>
 <img src="https://missuo.ru/file/9b48fa371344f53a1d2f1.jpg" alt="Speedtest CLI, made by Ookla" width="1000" height="700">
