@@ -36,7 +36,18 @@ VPS storage = 30GB or more
 
 <strong>LESS THAN THAT AND THE EGG WILL NOT RUN WELL!</strong>
 
-
+# Docker's Size Image Information
+<p>Nodejs 21: <strong>± 888.28 MB</strong></p>
+<p>Nodejs 20: <strong>± 887.01 MB</strong></p>
+<p>Nodejs 19: <strong>± 798.99 MB</strong></p>
+<p>Nodejs 18: <strong>± 885.09 MB</strong></p>
+<p>[NEW] Nodejs 18 (Slim): <strong>± 464.05 MB</strong></p>
+<p>[NEW] Nodejs 18 (Ubuntu Version): <strong>± 831.7 MB</strong></p>
+<p>Nodejs 17: <strong>± 799.63 MB</strong></p>
+<p>Nodejs 16: <strong>± 874.85 MB</strong></p>
+<p>Nodejs 14: <strong>± 874.24 MB</strong></p>
+<p>Nodejs 12: <strong>± 862.85 MB</strong>
+  
 # Download Links
 <p>You can download <strong><a href="https://safefileku.com/download/wsxv93mXuzQWXU2y">here</a></strong></p>
 <p>This egg is still in the development stage, please create an issue if there is a bug. Please <strong>don't buy and sell these eggs</strong>, these eggs are free for anyone.</p>
