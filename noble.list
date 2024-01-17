@@ -1,11 +1,11 @@
-deb http://ossmirror.mycloud.services/os/linux/ubuntu/ noble main restricted universe multiverse
-deb-src http://ossmirror.mycloud.services/os/linux/ubuntu/ noble main restricted universe multiverse
+deb http://ossmirror.mycloud.services/os/linux/ubuntu/ jammy main restricted universe multiverse
+deb-src http://ossmirror.mycloud.services/os/linux/ubuntu/ jammy main restricted universe multiverse
 
-deb http://ossmirror.mycloud.services/os/linux/ubuntu/ noble-updates main restricted universe multiverse
-deb-src http://ossmirror.mycloud.services/os/linux/ubuntu/ noble-updates main restricted universe multiverse
+deb http://ossmirror.mycloud.services/os/linux/ubuntu/ jammy-updates main restricted universe multiverse
+deb-src http://ossmirror.mycloud.services/os/linux/ubuntu/ jammy-updates main restricted universe multiverse
 
-deb http://archive.ubuntu.com/ubuntu/ noble-security main restricted universe multiverse
-deb-src http://archive.ubuntu.com/ubuntu/ noble-security main restricted universe multiverse
+deb http://archive.ubuntu.com/ubuntu/ jammy-security main restricted universe multiverse
+deb-src http://archive.ubuntu.com/ubuntu/ jammy-security main restricted universe multiverse
 
-deb http://ossmirror.mycloud.services/os/linux/ubuntu/ noble-backports main restricted universe multiverse
-deb-src http://ossmirror.mycloud.services/os/linux/ubuntu/ noble-backports main restricted universe multiverse
+deb http://ossmirror.mycloud.services/os/linux/ubuntu/ jammy-backports main restricted universe multiverse
+deb-src http://ossmirror.mycloud.services/os/linux/ubuntu/ jammy-backports main restricted universe multiverse
