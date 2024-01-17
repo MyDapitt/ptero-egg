@@ -50,7 +50,7 @@ VPS storage = 30GB or more
   
 # Download Links
 <p>You can download <strong><a href="https://safefileku.com/download/g4BUJRvv4VgmbnOI">here</a></strong></p>
-<p>Version: R4.209"</p>
+<p>Version: R4.209</p>
 <p>This egg is still in the development stage, please create an issue if there is a bug. Please <strong>don't buy and sell these eggs</strong>, these eggs are free for anyone.</p>
 
 # Questions and Answer
