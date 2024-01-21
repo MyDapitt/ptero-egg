@@ -8,31 +8,31 @@
 
 # See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
 # newer versions of the distribution.
-deb http://mirror.thaidns.co.th/ubuntu/ jammy main restricted
-# deb-src http://mirror.thaidns.co.th/ubuntu/ jammy main restricted
+deb https://mirrors.nipa.cloud/ubuntu/ jammy main restricted
+# deb-src https://mirrors.nipa.cloud/ubuntu/ jammy main restricted
 
 ## Major bug fix updates produced after the final release of the
 ## distribution.
-deb http://mirror.thaidns.co.th/ubuntu/ jammy-updates main restricted
-# deb-src http://mirror.thaidns.co.th/ubuntu/ jammy-updates main restricted
+deb https://mirrors.nipa.cloud/ubuntu/ jammy-updates main restricted
+# deb-src https://mirrors.nipa.cloud/ubuntu/ jammy-updates main restricted
 
 ## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu
 ## team. Also, please note that software in universe WILL NOT receive any
 ## review or updates from the Ubuntu security team.
-deb http://mirror.thaidns.co.th/ubuntu/ jammy universe
-# deb-src http://mirror.thaidns.co.th/ubuntu/ jammy universe
-deb http://mirror.thaidns.co.th/ubuntu/ jammy-updates universe
-# deb-src http://mirror.thaidns.co.th/ubuntu/ jammy-updates universe
+deb https://mirrors.nipa.cloud/ubuntu/ jammy universe
+# deb-src https://mirrors.nipa.cloud/ubuntu/ jammy universe
+deb https://mirrors.nipa.cloud/ubuntu/ jammy-updates universe
+# deb-src https://mirrors.nipa.cloud/ubuntu/ jammy-updates universe
 
 ## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu
 ## team, and may not be under a free licence. Please satisfy yourself as to
 ## your rights to use the software. Also, please note that software in
 ## multiverse WILL NOT receive any review or updates from the Ubuntu
 ## security team.
-deb http://mirror.thaidns.co.th/ubuntu/ jammy multiverse
-# deb-src http://mirror.thaidns.co.th/ubuntu/ jammy multiverse
-deb http://mirror.thaidns.co.th/ubuntu/ jammy-updates multiverse
-# deb-src http://mirror.thaidns.co.th/ubuntu/ jammy-updates multiverse
+deb https://mirrors.nipa.cloud/ubuntu/ jammy multiverse
+# deb-src https://mirrors.nipa.cloud/ubuntu/ jammy multiverse
+deb https://mirrors.nipa.cloud/ubuntu/ jammy-updates multiverse
+# deb-src https://mirrors.nipa.cloud/ubuntu/ jammy-updates multiverse
 
 ## N.B. software from this repository may not have been tested as
 ## extensively as that contained in the main release, although it includes
@@ -40,11 +40,11 @@ deb http://mirror.thaidns.co.th/ubuntu/ jammy-updates multiverse
 ## Also, please note that software in backports WILL NOT receive any review
 ## or updates from the Ubuntu security team.
 deb http://mirror.thaidns.co.th/ubuntu/ jammy-backports main restricted universe multiverse
-# deb-src http://mirror.thaidns.co.th/ubuntu/ jammy-backports main restricted universe multiverse
+# deb-src https://mirrors.nipa.cloud/ubuntu/ jammy-backports main restricted universe multiverse
 
-deb http://mirror.thaidns.co.th/ubuntu/ jammy-security main restricted
-# deb-src http://mirror.thaidns.co.th/ubuntu/ jammy-security main restricted
-deb http://mirror.thaidns.co.th/ubuntu/ jammy-security universe
-# deb-src http://mirror.thaidns.co.th/ubuntu/ jammy-security universe
-deb http://mirror.thaidns.co.th/ubuntu/ jammy-security multiverse
-# deb-src http://mirror.thaidns.co.th/ubuntu/ jammy-security multiverse
+deb https://mirrors.nipa.cloud/ubuntu/ jammy-security main restricted
+# deb-src https://mirrors.nipa.cloud/ubuntu/ jammy-security main restricted
+deb https://mirrors.nipa.cloud/ubuntu/ jammy-security universe
+# deb-src https://mirrors.nipa.cloud/ubuntu/ jammy-security universe
+deb https://mirrors.nipa.cloud/ubuntu/ jammy-security multiverse
+# deb-src https://mirrors.nipa.cloud/ubuntu/ jammy-security multiverse
