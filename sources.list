@@ -1,11 +1,11 @@
-deb https://mirrors.nipa.cloud/ubuntu/ jammy main restricted universe multiverse
-deb-src https://mirrors.nipa.cloud/ubuntu/ jammy main restricted universe multiverse
+deb https://mirrors.ipserverone.com/ubuntu/ jammy main restricted universe multiverse
+deb-src https://mirrors.ipserverone.com/ubuntu/ jammy main restricted universe multiverse
 
-deb https://de.mirrors.clouvider.net/ubuntu/ jammy-updates main restricted universe multiverse
-deb-src https://de.mirrors.clouvider.net/ubuntu/ jammy-updates main restricted universe multiverse
+deb https://as.mirrors.clouvider.net/ubuntu/ jammy-updates main restricted universe multiverse
+deb-src https://as.mirrors.clouvider.net/ubuntu/ jammy-updates main restricted universe multiverse
 
-deb https://mirrors.nipa.cloud/ubuntu/ jammy-security main restricted universe multiverse
-deb-src https://mirrors.nipa.cloud/ubuntu/ jammy-security main restricted universe multiverse
+deb https://mirrors.ipserverone.com/ubuntu/ jammy-security main restricted universe multiverse
+deb-src https://mirrors.ipserverone.com/ubuntu/ jammy-security main restricted universe multiverse
 
-deb https://de.mirrors.clouvider.net/ubuntu/ jammy-backports main restricted universe multiverse
-deb-src https://de.mirrors.clouvider.net/ubuntu/ jammy-backports main restricted universe multiverse
+deb https://as.mirrors.clouvider.net/ubuntu/ jammy-backports main restricted universe multiverse
+deb-src https://as.mirrors.clouvider.net/ubuntu/ jammy-backports main restricted universe multiverse
