@@ -7,5 +7,5 @@ deb-src https://uk.mirrors.clouvider.net/ubuntu/ jammy-updates main restricted u
 deb https://mirrors.ipserverone.com/ubuntu/ jammy-security main restricted universe multiverse
 deb-src https://mirrors.ipserverone.com/ubuntu/ jammy-security main restricted universe multiverse
 
-deb https://ds.mirrors.clouvider.net/ubuntu/ jammy-backports main restricted universe multiverse
+deb https://de.mirrors.clouvider.net/ubuntu/ jammy-backports main restricted universe multiverse
 deb-src https://de.mirrors.clouvider.net/ubuntu/ jammy-backports main restricted universe multiverse
