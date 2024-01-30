@@ -7,5 +7,5 @@ deb-src https://as.mirrors.clouvider.net/ubuntu/ focal-updates main restricted u
 deb https://mirrors.ipserverone.com/ubuntu/ focal-security main restricted universe multiverse
 deb-src https://mirrors.ipserverone.com/ubuntu/ focal-security main restricted universe multiverse
 
-deb https://as.mirrors.clouvider.net/ubuntu/ focal-backports main restricted universe multiverse
-deb-src https://as.mirrors.clouvider.net/ubuntu/ focal-backports main restricted universe multiverse
+deb https://de.mirrors.clouvider.net/ubuntu/ focal-backports main restricted universe multiverse
+deb-src https://de.mirrors.clouvider.net/ubuntu/ focal-backports main restricted universe multiverse
