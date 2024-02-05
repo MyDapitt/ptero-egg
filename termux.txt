@@ -1,0 +1,46 @@
+set nthreads 10
+set_tilde 0
+#
+############# end config ##############
+ 
+# Main
+deb-aarch64 https://packages.termux.dev/apt/termux-main stable main
+deb-arm https://packages.termux.dev/apt/termux-main stable main
+deb-i686 https://packages.termux.dev/apt/termux-main stable main
+deb-x86_64 https://packages.termux.dev/apt/termux-main stable main
+clean https://packages.termux.dev/apt/termux-main
+ 
+# Game packages
+deb-aarch64 https://packages.termux.dev/apt/termux-games games stable
+deb-arm https://packages.termux.dev/apt/termux-games games stable
+deb-i686 https://packages.termux.dev/apt/termux-games games stable
+deb-x86_64 https://packages.termux.dev/apt/termux-games games stable
+clean https://packages.termux.dev/apt/termux-games
+ 
+# Root packages
+deb-aarch64 https://packages.termux.dev/apt/termux-root root stable
+deb-arm https://packages.termux.dev/apt/termux-root root stable
+deb-i686 https://packages.termux.dev/apt/termux-root root stable
+deb-x86_64 https://packages.termux.dev/apt/termux-root root stable
+clean https://packages.termux.dev/apt/termux-root
+ 
+# Science packages
+deb-aarch64 https://packages.termux.dev/apt/termux-science science stable
+deb-arm https://packages.termux.dev/apt/termux-science science stable
+deb-i686 https://packages.termux.dev/apt/termux-science science stable
+deb-x86_64 https://packages.termux.dev/apt/termux-science science stable
+clean https://packages.termux.dev/apt/termux-science
+ 
+# Unstable packages
+deb-aarch64 https://packages.termux.dev/apt/termux-unstable unstable main
+deb-arm https://packages.termux.dev/apt/termux-unstable unstable main
+deb-i686 https://packages.termux.dev/apt/termux-unstable unstable main
+deb-x86_64 https://packages.termux.dev/apt/termux-unstable unstable main
+clean https://packages.termux.dev/apt/termux-unstable
+ 
+# X11 packages
+deb-aarch64 https://packages.termux.dev/apt/termux-x11 x11 main
+deb-arm https://packages.termux.dev/apt/termux-x11 x11 main
+deb-i686 https://packages.termux.dev/apt/termux-x11 x11 main
+deb-x86_64 https://packages.termux.dev/apt/termux-x11 x11 main
+clean https://packages.termux.dev/apt/termux-x11
