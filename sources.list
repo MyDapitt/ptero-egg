@@ -1,7 +1,7 @@
-deb https://mirrors.aliyun.com/ubuntu/ jammy main restricted universe multiverse
+deb https://mirror.nevacloud.com/ubuntu/ubuntu-archive/ jammy main restricted universe multiverse
 deb-src https://mirrors.ipserverone.com/ubuntu/ jammy main restricted universe multiverse
 
-deb https://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe multiverse
+deb https://mirror.nevacloud.com/ubuntu/ubuntu-archive/ jammy-updates main restricted universe multiverse
 deb-src https://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe multiverse
 
 deb https://mirrors.ipserverone.com/ubuntu/ jammy-security main restricted universe multiverse
