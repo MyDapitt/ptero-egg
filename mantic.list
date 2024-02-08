@@ -1,11 +1,11 @@
-deb https://mirrors.ipserverone.com/ubuntu/ mantic main restricted universe multiverse
-deb-src https://mirrors.ipserverone.com/ubuntu/ mantic main restricted universe multiverse
+deb https://mirror.gi.co.id/ubuntu/ mantic main restricted universe multiverse
+deb-src https://mirror.gi.co.id/ubuntu/ mantic main restricted universe multiverse
 
-deb https://as.mirrors.clouvider.net/ubuntu/ mantic-updates main restricted universe multiverse
-deb-src https://as.mirrors.clouvider.net/ubuntu/ mantic-updates main restricted universe multiverse
+deb https://mirror.gi.co.id/ubuntu/ mantic-updates main restricted universe multiverse
+deb-src https://mirror.gi.co.id/ubuntu/ mantic-updates main restricted universe multiverse
 
-deb https://mirrors.ipserverone.com/ubuntu/ mantic-security main restricted universe multiverse
-deb-src https://mirrors.ipserverone.com/ubuntu/ mantic-security main restricted universe multiverse
+deb http://id.archive.ubuntu.com/ubuntu/ mantic-security main restricted universe multiverse
+deb-src http://id.archive.ubuntu.com/ubuntu/ mantic-security main restricted universe multiverse
 
-deb https://as.mirrors.clouvider.net/ubuntu/ mantic-backports main restricted universe multiverse
-deb-src https://as.mirrors.clouvider.net/ubuntu/ mantic-backports main restricted universe multiverse
+deb https://mirror.gi.co.id/ubuntu/ mantic-backports main restricted universe multiverse
+deb-src https://mirror.gi.co.id/ubuntu/ mantic-backports main restricted universe multiverse
