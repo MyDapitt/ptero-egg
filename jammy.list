@@ -1,11 +1,11 @@
-deb https://mirrors.aliyun.com/ubuntu/ jammy main restricted universe multiverse
-deb-src https://mirrors.ipserverone.com/ubuntu/ jammy main restricted universe multiverse
+deb http://mr.heru.id/ubuntu/ jammy main restricted universe multiverse
+deb-src http://mr.heru.id/ubuntu/ jammy main restricted universe multiverse
 
-deb https://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe multiverse
-deb-src https://mirrors.aliyun.com/ubuntu/ jammy-updates main restricted universe multiverse
+deb http://mr.heru.id/ubuntu/ jammy-updates main restricted universe multiverse
+deb-src http://mr.heru.id/ubuntu/ jammy-updates main restricted universe multiverse
 
 deb https://mirrors.ipserverone.com/ubuntu/ jammy-security main restricted universe multiverse
 deb-src https://mirrors.ipserverone.com/ubuntu/ jammy-security main restricted universe multiverse
 
-deb https://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted universe multiverse
-deb-src https://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted universe multiverse
+deb https://mr.heru.id/ubuntu/ jammy-backports main restricted universe multiverse
+deb-src https://mr.heru.id/ubuntu/ jammy-backports main restricted universe multiverse
