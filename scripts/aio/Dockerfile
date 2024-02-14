@@ -5,7 +5,7 @@ MAINTAINER David, <major@onedev.eu.org>
 
 RUN apt update \
     && apt upgrade -y \
-    && apt -y install curl software-properties-common locales git \
+    && apt -y install curl neofetch software-properties-common locales git \
     && apt-get -y install liblzma-dev \
     && apt-get -y install lzma \
     && adduser container \
@@ -35,10 +35,7 @@ ENV PATH=$PATH:$JAVA_HOME/bin
 
 # NodeJS
 RUN curl -sL https://deb.nodesource.com/setup_lts.x | bash - \
-    && apt -y install nodejs \
-    && apt -y install ffmpeg \
-    && apt -y install make \
-    && apt -y install build-essential 
+    && apt-get -y install nodejs ffmprg make build-essential \
     
 # Python 2 & 3
 RUN apt update \
@@ -112,8 +109,12 @@ RUN apt-get install -y \
     libxtst6 \
     xdg-utils
 
+RUN wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add - \
+    && apt update \
+    && apt-get install -y google-chrome-stable
+
 # Installing NodeJS dependencies for AIO.
-RUN npm i -g yarn pm2 pnpm
+RUN npm i -g yarn pm2 pnpm nodemon typescript npm@10.x.x
 
 
 USER container
