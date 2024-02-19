@@ -1,0 +1,11 @@
+deb https://mirror.gi.co.id/ubuntu/ lunar main restricted universe multiverse
+deb-src https://mirror.gi.co.id/ubuntu/ lunar main restricted universe multiverse
+
+deb https://mirror.gi.co.id/ubuntu/ lunar-updates main restricted universe multiverse
+deb-src https://mirror.gi.co.id/ubuntu/ lunar-updates main restricted universe multiverse
+
+deb http://id.archive.ubuntu.com/ubuntu/ lunar-security main restricted universe multiverse
+deb-src http://id.archive.ubuntu.com/ubuntu/ lunar-security main restricted universe multiverse
+
+deb https://mirror.gi.co.id/ubuntu/ lunar-backports main restricted universe multiverse
+deb-src https://mirror.gi.co.id/ubuntu/ lunar-backports main restricted universe multiverse
