@@ -1,5 +1,5 @@
 deb http://mirrors.linode.com/debian buster main contrib non-free
 deb http://mirrors.digitalocean.com/debian buster-updates main contrib non-free
 deb http://mirrors.digitalocean.com/debian buster-backports main contrib non-free
-deb http://atlanta.mirrors.linode.com/debian-security/ buster-security main contrib non-free
+deb http://mirrors.linode.com/debian-security/ oldoldstable-security main contrib non-free
 # Main repo debian 11
