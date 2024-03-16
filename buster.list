@@ -1,5 +1,11 @@
-deb http://mirrors.linode.com/debian buster main contrib non-free
-deb http://mirrors.digitalocean.com/debian buster-updates main contrib non-free
-deb http://mirrors.digitalocean.com/debian buster-backports main contrib non-free
-deb https://mr.heru.id/debian-security/ buster main contrib non-free
-# Main repo debian 11
+deb http://mirrors.digitalocean.com/debian/ buster main contrib non-free
+deb-src http://mirrors.digitalocean.com/debian/ buster main contrib non-free
+
+deb http://mirrors.digitalocean.com/debian/ buster-updates main contrib non-free
+deb-src http://mirrors.digitalocean.com/debian/ buster-updates main contrib non-free
+
+deb http://ftp.debian.org/debian buster-backports main contrib non-free
+deb-src http://ftp.debian.org/debian buster-backports main contrib non-free
+
+deb http://security.debian.org/debian-security/ buster/updates main contrib non-free
+deb-src http://security.debian.org/debian-security/ buster/updates main contrib non-free
