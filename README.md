@@ -21,6 +21,7 @@
 <br>
 <img src="https://missuo.ru/file/45b95c111f2eede0fbed7.jpg" alt="pm2" width="1000" height="700">
 - Speedtest (Ookla)
+<p>Example <a href="https://www.speedtest.net/result/c/257f26b1-5157-4692-9707-6348f25e2067">result</a></p>
 <br>
 <img src="https://missuo.ru/file/9b48fa371344f53a1d2f1.jpg" alt="Speedtest CLI, made by Ookla" width="1000" height="700">
 
