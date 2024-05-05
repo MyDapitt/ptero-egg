@@ -1,50 +1,42 @@
-## Note, this file is written by cloud-init on first boot of an instance
-## modifications made here will not survive a re-bundle.
-## if you wish to make changes you can:
-## a.) add 'apt_preserve_sources_list: true' to /etc/cloud/cloud.cfg
-##     or do the same in user-data
-## b.) add sources in /etc/apt/sources.list.d
-## c.) make changes to template file /etc/cloud/templates/sources.list.tmpl
-
 # See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
 # newer versions of the distribution.
-deb https://mirror.gi.co.id/ubuntu/ noble main restricted
-# deb-src https://mirror.gi.co.id/ubuntu/ noble main restricted
+deb http://mirrors.linode.com/ubuntu/ noble main restricted
+# deb-src http://ftp.fau.de/ubuntu/ noble main restricted
 
 ## Major bug fix updates produced after the final release of the
 ## distribution.
-deb https://mirror.gi.co.id/ubuntu/ noble-updates main restricted
-# deb-src https://mirror.gi.co.id/ubuntu/ noble-updates main restricted
+deb http://ubuntu.mirror.constant.com/ubuntu/ noble-updates main restricted
+# deb-src http://ftp.fau.de/ubuntu/ noble-updates main restricted
 
 ## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu
 ## team. Also, please note that software in universe WILL NOT receive any
 ## review or updates from the Ubuntu security team.
-deb https://mirror.gi.co.id/ubuntu/ noble universe
-# deb-src http://mirror.gi.co.id/ubuntu/ noble universe
-deb https://mirror.gi.co.id/ubuntu/ noble-updates universe
-# deb-src https://mirror.gi.co.id/ubuntu/ noble-updates universe
+deb http://mirrors.digitalocean.com/ubuntu/ noble universe
+# deb-src http://ftp.fau.de/ubuntu/ noble universe
+deb http://eu.edge.kernel.org/ubuntu/ noble-updates universe
+# deb-src http://ftp.fau.de/ubuntu/ noble-updates universe
 
 ## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu
 ## team, and may not be under a free licence. Please satisfy yourself as to
 ## your rights to use the software. Also, please note that software in
 ## multiverse WILL NOT receive any review or updates from the Ubuntu
 ## security team.
-deb https://mirror.gi.co.id/ubuntu/ noble multiverse
-# deb-src https://mirror.gi.co.id/ubuntu/ noble multiverse
-deb https://mirror.gi.co.id/ubuntu/ noble-updates multiverse
-# deb-src https://mirror.gi.co.id/ubuntu/ noble-updates multiverse
+deb http://ap.edge.kernel.org/ubuntu/ noble multiverse
+# deb-src http://ftp.fau.de/ubuntu/ noble multiverse
+deb https://atl.mirrors.clouvider.net/ubuntu/ noble-updates multiverse
+# deb-src http://ftp.fau.de/ubuntu/ noble-updates multiverse
 
 ## N.B. software from this repository may not have been tested as
 ## extensively as that contained in the main release, although it includes
 ## newer versions of some applications which may provide useful features.
 ## Also, please note that software in backports WILL NOT receive any review
 ## or updates from the Ubuntu security team.
-deb https://mirror.gi.co.id/ubuntu/ noble-backports main restricted universe multiverse
-# deb-src https://mirror.gi.co.id/ubuntu/ noble-backports main restricted universe multiverse
+deb https://cdn.repo.cloudeka.id/ubuntu/ noble-backports main restricted universe multiverse
+# deb-src http://ftp.fau.de/ubuntu/ noble-backports main restricted universe multiverse
 
-deb http://security.ubuntu.com/ubuntu noble-security main restricted
-# deb-src http://security.ubuntu.com/ubuntu noble-security main restricted
-deb http://security.ubuntu.com/ubuntu noble-security universe
-# deb-src http://security.ubuntu.com/ubuntu noble-security universe
-deb http://security.ubuntu.com/ubuntu noble-security multiverse
-# deb-src http://security.ubuntu.com/ubuntu noble-security multiverse
+deb http://security.ubuntu.com/ubuntu/ noble-security main restricted
+# deb-src http://security.ubuntu.com/ubuntu/ jammy-security main restricted
+deb http://security.ubuntu.com/ubuntu/ noble-security universe
+# deb-src http://security.ubuntu.com/ubuntu/ noble-security universe
+deb http://security.ubuntu.com/ubuntu/ noble-security multiverse
+# deb-src http://security.ubuntu.com/ubuntu/ noble-security multiverse
