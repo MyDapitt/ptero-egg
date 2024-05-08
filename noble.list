@@ -5,7 +5,7 @@ deb http://mirrors.linode.com/ubuntu/ noble main restricted
 
 ## Major bug fix updates produced after the final release of the
 ## distribution.
-deb http://ubuntu.mirror.constant.com/ubuntu/ noble-updates main restricted
+deb http://mirrors.aliyuncs.com/ubuntu/ noble-updates main restricted
 # deb-src http://ftp.fau.de/ubuntu/ noble-updates main restricted
 
 ## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu
