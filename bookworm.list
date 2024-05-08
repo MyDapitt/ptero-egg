@@ -1,4 +1,4 @@
-deb https://ftp.debian.org/debian bookworm main contrib non-free
+deb https://ftp.debian.org/debian/ bookworm main contrib non-free
 deb https://mirrors.163.com/debian/ bookworm-updates main contrib non-free
 deb https://debian.stanford.edu/debian/ bookworm-backports main contrib non-free
 deb https://mirror.aarnet.edu.au/pub/debian-security/ bookworm-security main contrib non-free
