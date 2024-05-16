@@ -38,6 +38,7 @@ Architecture = amd64
 <strong>LESS THAN THAT AND THE EGG WILL NOT RUN WELL!</strong>
 
 # Docker's Size Image Information
+<p>Nodejs 22: <strong>866 MB</strong></p>
 <p>Nodejs 21: <strong>± 818.85 MB</strong></p>
 <p>Nodejs 20: <strong>± 817 MB </strong></p>
 <p>Nodejs 20 (Ubuntu): <strong>± 801.8 MB</strong></p>
@@ -51,7 +52,7 @@ Architecture = amd64
 <p>Nodejs 12: <strong>± 862.85 MB</strong>
   
 # Download Links
-<p>You can download <strong><a href="https://safefileku.com/download/hbKELnSfhlNDbz06">here</a></strong></p>
+<p>You can download <strong><a href="https://www.mirrored.to/files/1HISLCJG/?hash=f9a44e5e9262f6528d5fa144b65995ca&dl=0">here</a></strong></p>
 <p>Version: R5.203</p>
 <p>This egg is still in the development stage, please create an issue if there is a bug. Please <strong>don't buy and sell these eggs</strong>, these eggs are free for anyone.</p>
 
