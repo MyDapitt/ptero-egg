@@ -1,17 +1,17 @@
 # See http://help.ubuntu.com/community/UpgradeNotes for how to upgrade to
 # newer versions of the distribution.
-deb http://mirrors.linode.com/ubuntu/ noble main restricted
+deb http://mirrors.digitalocean.com/ubuntu/ noble main restricted
 # deb-src http://ftp.fau.de/ubuntu/ noble main restricted
 
 ## Major bug fix updates produced after the final release of the
 ## distribution.
-deb http://mirrors.aliyuncs.com/ubuntu/ noble-updates main restricted
+deb https://mirrors.aliyun.com/ubuntu/ noble-updates main restricted
 # deb-src http://ftp.fau.de/ubuntu/ noble-updates main restricted
 
 ## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu
 ## team. Also, please note that software in universe WILL NOT receive any
 ## review or updates from the Ubuntu security team.
-deb http://mirrors.digitalocean.com/ubuntu/ noble universe
+deb https://mirror.nevacloud.com/ubuntu/ubuntu-archive/ noble universe
 # deb-src http://ftp.fau.de/ubuntu/ noble universe
 deb http://eu.edge.kernel.org/ubuntu/ noble-updates universe
 # deb-src http://ftp.fau.de/ubuntu/ noble-updates universe
