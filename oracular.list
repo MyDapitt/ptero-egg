@@ -1,8 +1,8 @@
-deb https://mirrors.aliyun.com/ubuntu/ oracular main restricted universe multiverse
-deb-src https://mirrors.aliyun.com/ubuntu/ oracular main restricted universe multiverse
+deb http://cdn.repo.cloudeka.id/ubuntu/ oracular main restricted universe multiverse
+deb-src http://cdn.repo.cloudeka.id/ubuntu/ oracular main restricted universe multiverse
 
 deb http://mirrors.digitalocean.com/ubuntu/ oracular-updates main restricted universe multiverse
-deb-src https://mirrors.aliyun.com/ubuntu/ oracular-updates main restricted universe multiverse
+deb-src http://cdn.repo.cloudeka.id/ubuntu/ oracular-updates main restricted universe multiverse
 
 deb http://gce.clouds.archive.ubuntu.com/ubuntu/ oracular-security main restricted universe multiverse
 deb-src https://mirror.nevacloud.com/ubuntu/ubuntu-archive/ oracular-security main restricted universe multiverse
