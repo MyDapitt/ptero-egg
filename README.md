@@ -2,7 +2,7 @@
 
 
 <strong><p>Visitor</p></strong>
-<img src="https://profile-counter.glitch.me/1P5/count.svg" alt="hit"/>
+<img src="https://profile-counter.glitch.me/WR3/count.svg" alt="hit"/>
   
 # Features
 
@@ -21,7 +21,7 @@
 <br>
 <img src="https://missuo.ru/file/45b95c111f2eede0fbed7.jpg" alt="pm2" width="1000" height="700">
 - Speedtest (Ookla)
-<p>Example <a href="https://www.speedtest.net/result/c/257f26b1-5157-4692-9707-6348f25e2067">result</a></p>
+<p>Example <a href="https://www.speedtest.net/result/c/9c346b45-d2a7-4021-bc31-3b163eaa7e4f">result</a></p>
 <br>
 <img src="https://missuo.ru/file/9b48fa371344f53a1d2f1.jpg" alt="Speedtest CLI, made by Ookla" width="1000" height="700">
 
