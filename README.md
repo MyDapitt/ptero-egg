@@ -33,7 +33,7 @@
 # Requirements 
 - VPS:<br>
 VPS RAM = 1GB or more<br>
-VPS storage = 30GB or more
+VPS storage = 30GB or more<br>
 Architecture = amd64
 <strong>LESS THAN THAT AND THE EGG WILL NOT RUN WELL!</strong>
 
