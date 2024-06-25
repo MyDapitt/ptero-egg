@@ -38,7 +38,9 @@ Architecture = amd64
 <strong>LESS THAN THAT AND THE EGG WILL NOT RUN WELL!</strong>
 
 # Docker's Size Image Information
-<p>Nodejs 22: <strong>866 MB</strong></p>
+<p>Alpine Linux: <strong>± 210 MB</strong></p>
+<p>Kali Linux: <strong>± 951 MB</strong></p>
+<p>Nodejs 22: <strong>± 887 MB</strong></p>
 <p>Nodejs 21: <strong>± 818.85 MB</strong></p>
 <p>Nodejs 20: <strong>± 817 MB </strong></p>
 <p>Nodejs 20 (Ubuntu): <strong>± 801.8 MB</strong></p>
@@ -48,8 +50,6 @@ Architecture = amd64
 <p>Nodejs 18 (Ubuntu): <strong>± 831.7 MB</strong></p>
 <p>Nodejs 17: <strong>± 799.63 MB</strong></p>
 <p>Nodejs 16: <strong>± 874.85 MB</strong></p>
-<p>Nodejs 14: <strong>± 874.24 MB</strong></p>
-<p>Nodejs 12: <strong>± 862.85 MB</strong>
   
 # Download Links
 <p>You can download <strong><a href="http://go.onee.eu.org/EGG">here</a></strong></p>
