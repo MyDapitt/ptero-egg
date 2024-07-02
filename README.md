@@ -40,7 +40,6 @@ Architecture = amd64
 # Docker's Size Image Information
 <p>Alpine Linux: <strong>± 210 MB</strong></p>
 <p>Kali Linux: <strong>± 951 MB</strong></p>
-<p>Trisquel GNU/Linux: <strong>± 790 MB</strong></p>
 <p>Nodejs 22: <strong>± 887 MB</strong></p>
 <p>Nodejs 21: <strong>± 818.85 MB</strong></p>
 <p>Nodejs 20: <strong>± 817 MB </strong></p>
