@@ -54,7 +54,7 @@ Architecture = amd64
   
 # Download Links
 <p>You can download <strong><a href="http://go.onee.eu.org/EGG">here</a></strong></p>
-<p>Version: R6.0</p>
+<p>Version: R6.2.1</p>
 <p>This egg is still in the development stage, please create an issue if there is a bug. Please <strong>don't buy and sell these eggs</strong>, these eggs are free for anyone.</p>
 
 # Questions and Answer
