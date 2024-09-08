@@ -25,6 +25,9 @@
 <br>
 <img src="https://missuo.ru/file/9b48fa371344f53a1d2f1.jpg" alt="Speedtest CLI, made by Ookla" width="1000" height="700">
 
+- <a href="https://github.com/cloudflare/cloudflared">Cloudflared</a> *only ubuntu os
+
+
 <p>and everything else is what the WhatsApp bot needs.</p>
 
 <strong><p>NodeJS available version</p></strong>
