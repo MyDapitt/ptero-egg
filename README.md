@@ -31,7 +31,7 @@
 <p>and everything else is what the WhatsApp bot needs.</p>
 
 <strong><p>NodeJS available version</p></strong>
-<p>22, (Active), 21 (EOL), 20 (LTS), 19 (EOL), 18 (LTS), 17 (EOL), 16 (EOL), 14 (EOL), 12 (EOL)</p>
+<p>23 (Active), 22, (Maintenance), 21 (EOL), 20 (LTS), 19 (EOL), 18 (LTS), 17 (EOL), 16 (EOL), 14 (EOL), 12 (EOL)</p>
 
 # Requirements 
 - VPS:<br>
@@ -43,6 +43,7 @@ Architecture = amd64
 # Docker's Size Image Information
 <p>Alpine Linux: <strong>± 210 MB</strong></p>
 <p>Kali Linux: <strong>± 951 MB</strong></p>
+<p>Nodejs 23: <strong>± 876.68 MB</strong></p>
 <p>Nodejs 22: <strong>± 887 MB</strong></p>
 <p>Nodejs 21: <strong>± 818.85 MB</strong></p>
 <p>Nodejs 20: <strong>± 817 MB </strong></p>
@@ -57,7 +58,7 @@ Architecture = amd64
 # Download Links
 <p>You can download <strong><a href="http://go.onee.eu.org/EGG">here</a></strong></p>
 <p>Version: R6.2.1</p>
-<p>This egg is still in the development stage, please create an issue if there is a bug. Please <strong>don't buy and sell these eggs</strong>, these eggs are free for anyone.</p>
+<p>This egg is still in he development stage, please create an issue if there is a bug. Please <strong>don't buy and sell these eggs</strong>, these eggs are free for anyone.</p>
 
 # Questions and Answer
 
